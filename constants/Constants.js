@@ -1,17 +1,17 @@
 const nameToPic = {
-	ambercheng: ["Amber Cheng", require("../assets/MemberPictures/ambercheng.jpg")],
-	anishsasanur: ["Anish Sasanur", require("../assets/MemberPictures/anishsasanur.png")],
-	bonniewang: ["Bonnie Wang", require("../assets/MemberPictures/bonniewang.jpg")],
-	edizertekin: ["Ediz Ertekin", require("../assets/MemberPictures/edizertekin.heic")],
-	henryjack: ["Henry Jack", require("../assets/MemberPictures/henryjack.jpeg")],
-	larachieppe: ["Lara Chieppe", require("../assets/MemberPictures/larachieppe.png")],
-	mehdikhfifi: ["Mehdi Khfifi", require("../assets/MemberPictures/mehdikhfifi.jpeg")],
-	mohamedzeidan: ["Mohamed Zeidan", require("../assets/MemberPictures/mohamedzeidan.png")],
-	sarahzong: ["Sarah Zong", require("../assets/MemberPictures/sarahzong.jpeg")],
-	satvikmuddana: ["Satvik Muddana", require("../assets/MemberPictures/satvikmuddana.jpg")],
-	siddharthganapathy: ["Siddharth Ganapathy", require("../assets/MemberPictures/siddharthganapathy.jpeg")],
-	sodbayarganbat: ["Sodbayar Ganbat", require("../assets/MemberPictures/sodbayarganbat.jpg")],
-	sriyakantipudi: ["Sriya Kantipudi", require("../assets/MemberPictures/sriyakantipudi.png")],
-	tinaye: ["Tina Ye", require("../assets/MemberPictures/tinaye.jpg")]
+	riatao: ["Ria Tao", require("../assets/MemberPictures/riatao.jpg")],
+	miladbrown: ["Milad Brown", require("../assets/MemberPictures/miladbrown.jpg")],
+	rianamistry: ["Riana Mistry", require("../assets/MemberPictures/rianamistry.jpg")],
+	landymanzanero: ["Landy Manzanero", require("../assets/MemberPictures/landymanzanero.png")],
+	subhammitra: ["Subham Mitra", require("../assets/MemberPictures/subhammitra.jpeg")],
+	angiezhu: ["Angie Zhu", require("../assets/MemberPictures/angiezhu.png")],
+	edangortzak: ["Edan Gortzak", require("../assets/MemberPictures/edangortzak.jpg")],
+	nadahameed: ["Nada Hameed", require("../assets/MemberPictures/nadahameed.JPG")],
+	morrellnioble: ["Morrell Nioble", require("../assets/MemberPictures/morrellnioble.jpeg")],
+	pavithraarunanand: ["Pavitra Arun Anand", require("../assets/MemberPictures/pavithraarunanand.png")],
+	estherluan: ["Esther Luan", require("../assets/MemberPictures/estherluan.JPG")],
+	danielgil: ["Daniel Gil", require("../assets/MemberPictures/danielgil.jpg")],
+	denniskoh: ["Dennis Koh", require("../assets/MemberPictures/denniskoh.jpeg")],
+	mikeguerrero: ["Mike Guerrero", require("../assets/MemberPictures/mikeguerrero.jpeg")]
 }
 export { nameToPic }
