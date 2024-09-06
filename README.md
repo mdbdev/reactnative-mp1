@@ -28,6 +28,7 @@ cd reactnative-mp1
 yarn install
 expo install
 expo start
+```
 
 ## Useful Debugging Guides
 * Manifest Parsing Error: https://stackoverflow.com/questions/78451759/expo-go-23-1-update-causing-failed-to-parse-manifest-error
