@@ -1,10 +1,12 @@
 import React, { useState } from "react";
-import { Image, Text, View, TouchableOpacity } from "react-native";
+
+// TODO: Import the following items from the 'react-native' library: Image, Text, View, and TouchableOpacity.
 
 import { styles } from "../constants/Styles";
 import { nameToPic } from "../constants/Constants";
 import { useEffect } from "react";
 import { shuffle } from "../utils/ArrayUtils";
+
 const names = Object.keys(nameToPic);
 
 export default function GameScreen() {
@@ -83,7 +85,7 @@ export default function GameScreen() {
         onPress={() => selectedNameChoice(j)}
       >
         <Text style={styles.buttonText}>
-          {/* TODO: Use something from state here. */}
+          {/* TODO: Use something from state here. (Hint: What do we want inside the buttons?) */}
         </Text>
       </TouchableOpacity>
     );
